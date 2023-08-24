@@ -9,3 +9,4 @@ descrição do produto e um botão para adicionar ao
 carrinho;
 • Seguir as adaptações de layout propostas e fazer a
 publicação na Vercel.
+https://exercicio-css-responsivo-meiremendes.vercel.app/
